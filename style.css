@@ -1,0 +1,22 @@
+body {
+    background-color: #e4e4e4
+}
+
+h1 {
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.pokeball {
+    width: 200px;
+    opacity: 0.2;
+    position: absolute;
+    margin-left: 1000px;
+    
+}
+
+
+#d3-container {
+    margin-left: 100px;
+}
